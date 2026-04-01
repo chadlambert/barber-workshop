@@ -250,7 +250,7 @@ body {
 }
  
 .feature-card {
-    flex: 0 0 320px;
+    flex: 0 1 320px;
     background-color: var(--color-beige);
     border-radius: var(--radius);
     padding: 14px;
@@ -295,6 +295,7 @@ body {
     background-color: var(--color-bg-dark);
 }
  
+
 .service-price {
     margin-top: 10px;
     font-size: 18px;
