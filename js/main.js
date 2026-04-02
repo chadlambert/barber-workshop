@@ -1,4 +1,3 @@
-=
 // File: js/main.js
 // Vintage Barbershop Project
 // =========================
